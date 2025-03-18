@@ -94,18 +94,16 @@ Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para
  <img 
     align="left" 
     alt="GitHub Stats" 
-    height="400" 
-    width="300"
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=murilorochars&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+  />
 
 <img 
-    align="right" 
-    alt="GitHub Stats" 
-    height="400" 
-    width="300"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorochars&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorochars&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
