@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Murilo Rocha 
+# 👨‍💻 Murilo Rocha 
 
 **`Desenvolvedor FullStack`**
 
