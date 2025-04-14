@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para internet pelo Instituto Federal Catarinense. Atualmente, curso Ciência da Computação na UNESC. Sou fascinado por tecnologia e tenho o desejo constante de evoluir e aprender. 
+Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para internet pelo Instituto Federal Catarinense. Atualmente, curso Tecnologia da Informação e comunicação na UFSC. Sou fascinado por tecnologia e tenho o desejo constante de evoluir e aprender. 
 
 
 ---
