@@ -12,6 +12,7 @@ Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para
 </picture>
 
 
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilorochars&theme=shadow_green" width="49%" />
