@@ -13,3 +13,4 @@ Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para
 
 
 
+[![Estatísticas do GitHub](https://vercel.app)](https://github.com/murilorochars/github-readme-stats)
