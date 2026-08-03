@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para internet pelo Instituto Federal Catarinense. Atualmente, curso Tecnologia da Informação e comunicação na UFSC. Sou fascinado por tecnologia e tenho o desejo constante de evoluir e aprender. 
-
+Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para internet pelo Instituto Federal Catarinense. Atualmente, curso Tecnologia da Informação e comunicação na UFSC.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
@@ -11,9 +10,3 @@ Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
 
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilorochars&theme=shadow_green" width="49%" />
-</p>
