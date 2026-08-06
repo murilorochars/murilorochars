@@ -1,4 +1,4 @@
-Developer | ecommerce | fullstack
+Developer | E-commerce | Fullstack
 
 Me chamo Murilo Rocha da Rosa, tenho 18 anos e sou técnico de informática para internet pelo Instituto Federal Catarinense. Atualmente, curso Tecnologia da Informação e comunicação na UFSC.
 
